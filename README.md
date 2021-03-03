@@ -1,10 +1,5 @@
 # Start-Python
-###### 여
-##### 정
-#### 화
-### 바
-## 보
-# 야
+
 ```python
 def GuGu(n):
     result = []
