@@ -21,3 +21,8 @@ def GuGu(n):
 n= int(input("구구단 몇단을 외울까요?"))
 print(GuGu(n))
 ```
+
+a,b = input().split()
+a=int(a)
+b=int(b)
+print(a+b)
